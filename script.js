@@ -15,7 +15,7 @@ const noMessages = [
     "Baby please... 🥺",
     "Mahal, If you say no, I will be really sad and will ask for more kisses...",
     "Babyyyy... 😢",
-    "Please??? 💔",
+    "You can't catch me anyway??? 😜",
     "Why no??? I love you...",
     "Loveee 😭",
     "You can't catch me anyway 😜"
