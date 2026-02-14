@@ -17,8 +17,8 @@ const noMessages = [
     "Babyyyy... 😢",
     "You can't catch me anyway??? 😜",
     "Why no??? I love you...",
-    "Loveee 😭",
-    "You can't catch me anyway 😜"
+    "Draxin baby 😭",
+    "Loveee 😭"
 ]
 
 const yesTeasePokes = [
