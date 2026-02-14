@@ -15,10 +15,10 @@ const noMessages = [
     "Baby please... 🥺",
     "Mahal, If you say no, I will be really sad and will ask for more kisses...",
     "Babyyyy... 😢",
-    "You can't catch me anyway??? 😜",
+    "Pleaseeee",
     "Why no??? I love you...",
     "Draxin baby 😭",
-    "Loveee 😭"
+    "You can't catch me anyway??? 😜"
 ]
 
 const yesTeasePokes = [
